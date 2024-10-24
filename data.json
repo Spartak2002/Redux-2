@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": "101",
+      "name": "Tiko",
+      "salary": 100000
+    },
+    {
+      "id": "102",
+      "name": "Niko",
+      "salary": 200000
+    },
+    {
+      "id": "103",
+      "name": "Miko",
+      "salary": 300000
+    },
+    {
+      "id": "104",
+      "name": "Siko",
+      "salary": 400000
+    },
+    {
+      "id": "992d",
+      "name": "Spo",
+      "salary": "2300"
+    }
+  ]
+}
